@@ -1,8 +1,6 @@
 ---
-title: "Code Book"
-output: 
-   html_document:
-      theme: united
+# "Code Book"
+
 ---
 
 The file `summarizedSmartphoneActivity.txt` contains a summary of a subset of the 

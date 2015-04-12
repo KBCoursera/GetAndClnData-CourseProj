@@ -1,6 +1,6 @@
 ---
-title: "Summarized Smartphone Activity"
-output: html_document
+# "Summarized Smartphone Activity"
+
 ---
 
 ### Original Study
