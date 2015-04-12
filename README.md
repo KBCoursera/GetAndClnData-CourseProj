@@ -1,6 +1,5 @@
 ---
-# "Summarized Smartphone Activity"
-
+# Summarized Smartphone Activity
 ---
 
 ### Original Study

@@ -1,6 +1,5 @@
 ---
-# "Code Book"
-
+# Code Book
 ---
 
 The file `summarizedSmartphoneActivity.txt` contains a summary of a subset of the 
